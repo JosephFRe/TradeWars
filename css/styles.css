@@ -1,0 +1,89 @@
+.navbar-brand {
+  font-family: 'IM Fell DW Pica SC', serif;
+  font-size: 2.5rem;
+  color: #f2edd7;
+}
+
+.navbar-brand:hover {
+  font-family: 'IM Fell DW Pica SC', serif;
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+.nav-link {
+  font-family: 'IM Fell DW Pica SC', serif;
+  font-size: 2rem;
+  color: #f2edd7;
+}
+
+.nav-item {
+  padding-left: 22px;
+}
+
+.nav-link:hover {
+  font-family: 'IM Fell DW Pica SC', serif;
+  font-size: 2rem;
+  color: #fff;
+}
+
+#get-started {
+  background-color: #e48257;
+  padding-top: 50px;
+}
+
+#download {
+  background-color: #3a6351;
+}
+
+body {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+h1 {
+  font-family: 'Ultra', sans-serif;
+  color: #f2edd7;
+}
+
+h3 {
+  font-family: 'Ultra', sans-serif;
+}
+
+p {
+    color: #f2edd7;
+}
+
+.get-started-image {
+  color: #3a6351;
+  margin: 35px;
+}
+
+.get-started-div {
+  margin: 3%;
+}
+
+.row {
+  padding: 4% 20%;
+}
+
+#iphone-mockup {
+  display: block;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  transform: rotateZ(10deg);
+}
+
+.download-button {
+  margin: 5% 3% 0% 0%;
+}
+
+.download-div {
+  margin: 3%;
+}
+
+.center {
+  float: none;
+  margin: auto;
+  text-align: center;
+}
