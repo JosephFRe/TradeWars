@@ -106,6 +106,10 @@ p {
 
 /* Special Tags */
 
+@-ms-viewport{
+    width: device-width;
+}
+
 .center {
   float: none;
   margin: auto;
